@@ -1,0 +1,13 @@
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.exe
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.deps.json
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.json
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.dev.json
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csprojAssemblyReference.cache
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.CoreCompileInputs.cache
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb
+D:\Testing tasks\N-iX\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.genruntimeconfig.cache
